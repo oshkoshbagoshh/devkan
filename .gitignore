@@ -11,6 +11,11 @@
 ## javascript
 node_modules/
 
+dist/
+coverage/
+.tsup/
+.vite/
+
 ### ENV STUFF 
 .env
 .env.local
