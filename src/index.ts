@@ -1,6 +1,10 @@
-export function greet(name: string): string {
-  const trimmed = name.trim();
-  if (!trimmed) return "Hello";
-  return `Hello, ${trimmed}`;
-}
+/**
+ * Public API for the devkan library.
+ */
 
+export { greet } from "./greet";
+export {
+  lorenipsem,
+  type LorenipsemOptions,
+  type LorenipsemUnit
+} from "./lorenipsem";
