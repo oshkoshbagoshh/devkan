@@ -1,7 +1,7 @@
 {
   "name": "devkan",
   "version": "0.1.0",
-  "description": "TypeScript library boilerplate.",
+  "description": "TypeScript utilities including Lorenipsem placeholder text generation.",
   "license": "MIT",
   "author": "AJ Javadi",
   "type": "module",
